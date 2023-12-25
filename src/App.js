@@ -2,11 +2,10 @@ import React from 'react';
 
 function App() {
   const containerStyle = {
-    maxWidth: '600px',
+    maxWidth: '800px',
     width: 'calc(100% - 40px)',
     marginLeft: 'auto',
     marginRight: 'auto',
-    padding: '20px',
     fontFamily: 'Arial, sans-serif',
     lineHeight: '1.6',
   };
